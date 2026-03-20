@@ -1,6 +1,3 @@
-# Polymarket-arbitrage-bot-current(v1.8 Private. will not sell) 2026.2
-##https://t.me/BlackSky_jose
-
 
 <img width="525" height="266" alt="9" src="https://github.com/user-attachments/assets/799f4c83-aa7a-46a7-8c37-2d0775b61b0d" />
 <img width="525" height="266" alt="8" src="https://github.com/user-attachments/assets/98ea648f-6194-4b21-944b-427b1da52c1f" />
